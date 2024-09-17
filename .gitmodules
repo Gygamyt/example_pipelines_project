@@ -1,0 +1,9 @@
+[submodule "test-framework"]
+	path = test-framework
+	url = https://github.com/Gygamyt/example_test_framework_for_pipeline
+[submodule "reports"]
+	path = reports
+	url = https://github.com/Gygamyt/example_reports_gh_pages
+[submodule "site"]
+	path = site
+	url = https://github.com/Gygamyt/example_site_for_pipeline
